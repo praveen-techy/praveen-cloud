@@ -1,2 +1,17 @@
-# praveen-cloud
-Hosting a web server in cloud with amazon linux
+
+![Screenshot 2024-09-24 004529](https://github.com/user-attachments/assets/6ec4197e-4e1b-4ba8-a31a-b8e75b7b5492)![Screenshot 2024-09-24 004300](https://github.com/user-attachments/assets/2fd60a48-e8ae-4888-82df-7fbe8305896d)
+![Screenshot 2024-09-24 004227](https://github.com/user-attachments/assets/b9628fff-f830-46bb-a527-adbe326d09ef)
+![Screenshot 2024-09-24 003415](https://github.com/user-attachments/assets/ef0dfa33-1990-4bbb-adf8-a36cd021b451)
+![Screenshot 2024-09-24 003119](https://github.com/user-attachments/assets/2aea44a0-aa54-433e-80ed-0a8f5a1ec8c6)
+![Screenshot 2024-09-24 002601](https://github.com/user-attachments/assets/dd7e23f2-fd98-493a-8f9b-ab3879dfd98f)
+![Screenshot 2024-09-24 002523](https://github.com/user-attachments/assets/7e20b725-c927-4ebd-876c-eaf1599a3f0d)
+![Screenshot 2024-09-24 002457](https://github.com/user-attachments/assets/ebf8da1d-f716-465a-a64e-c274c5bb4b86)
+![Screenshot 2024-09-24 002215](https://github.com/user-attachments/assets/95eba4f6-641b-49c0-8b16-87b34d1dadda)
+![Screenshot 2024-09-24 005917](https://github.com/user-attachments/assets/ddea6bde-d73c-492e-a885-fd66287d5131)
+![Screenshot 2024-09-24 005832](https://github.com/user-attachments/assets/3acfe26e-95ed-478d-8ec2-484515b8e1b0)
+![Screenshot 2024-09-24 005734](https://github.com/user-attachments/assets/fbaa6f3d-05a8-4187-8e8d-53c40a6d0a3e)
+![Screenshot 2024-09-24 005553](https://github.com/user-attachments/assets/d893f0e1-172e-4e21-89c5-e72e99a78a02)
+![Screenshot 2024-09-24 004740](https://github.com/user-attachments/assets/3f631533-985c-4042-a91b-0bced0fe22f3)
+![Screenshot 2024-09-24 004707](https://github.com/user-attachments/assets/30ff52ca-7caf-41b3-a92b-b2dfdd0c827f)
+![Screenshot 2024-09-24 004649](https://github.com/user-attachments/assets/6f53464e-5784-4400-b43e-007fa21338fa)
+
